@@ -1,6 +1,4 @@
 # Nyaaya_AI
 
-### LLM
-### RAG
-### Vector DB
-### Agentic AI
+### Phase 1 : LLM + RAG
+### Phase 2 : Voice AI + Agentic AI
